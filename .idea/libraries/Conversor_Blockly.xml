@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Conversor_Blockly">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Conversor_Blockly.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
